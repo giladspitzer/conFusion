@@ -19,7 +19,7 @@ $(document).ready(function(){
 })
 $('#reservationToggle').click(function(){
     $('#reservationModal').modal('toggle');
-})
+    })
 
 $('#loginToggle').click(function(){
     $('#loginModal').modal('toggle');
